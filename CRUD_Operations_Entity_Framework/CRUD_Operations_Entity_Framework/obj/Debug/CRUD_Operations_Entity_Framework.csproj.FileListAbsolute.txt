@@ -1,0 +1,13 @@
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\bin\Debug\CRUD_Operations_Entity_Framework.exe.config
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\bin\Debug\CRUD_Operations_Entity_Framework.exe
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\bin\Debug\CRUD_Operations_Entity_Framework.pdb
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\bin\Debug\EntityFramework.dll
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\bin\Debug\EntityFramework.xml
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\obj\Debug\CRUD_Operations_Entity_Framework.csproj.AssemblyReference.cache
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\obj\Debug\CRUD_Operations_Entity_Framework.csproj.SuggestedBindingRedirects.cache
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\obj\Debug\CRUD_Operations_Entity_Framework.csproj.CoreCompileInputs.cache
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\obj\Debug\CRUD_Operations_Entity_Framework.csproj.CopyComplete
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\obj\Debug\CRUD_Operations_Entity_Framework.exe
+D:\Phase-2\Day-8\Assignment\CRUD_Operations_Entity_Framework\CRUD_Operations_Entity_Framework\obj\Debug\CRUD_Operations_Entity_Framework.pdb
